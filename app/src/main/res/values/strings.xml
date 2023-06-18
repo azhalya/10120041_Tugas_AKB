@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Tugas Google Maps</string>
+    <string name="title_home">Profile</string>
+    <string name="title_dashboard">Maps</string>
+    <string name="title_notifications">Information</string>
+</resources>
